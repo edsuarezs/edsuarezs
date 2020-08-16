@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://i.ibb.co/HdmhmYw/INIT-R5-Banner.jpg" alt="Banner" width="750" />  </p>
 
-<p align="center"> <a href="https://twitter.com/init_r5"> <img src="https://toppng.com/uploads/preview/image-result-for-facebook-icon-image-result-for-gray-twitter-icon-2018-115632283832aq1i9ssek.png" width="48" /> </a> <a href="https://www.linkedin.com/in/edwardsuarezdev/"> <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-82-434743.png" width="48" /> </a> <a href="https://www.instagram.com/initr5/"> <img src="https://www.clipartmax.com/png/middle/111-1116786_logo-computer-icons-clip-art-instagram-logo-png-grey.png" width="48" /> </a>
+<p align="center"> <a href="https://twitter.com/init_r5"> <img src="https://i.ibb.co/2kxkSJ1/204-2040928-logo-twitter-circle-grey-current-twitter-logo-png-removebg-preview.png" width="48" /> </a> <a href="https://www.linkedin.com/in/edwardsuarezdev/"> <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-82-434743.png" width="48" /> </a> <a href="https://www.instagram.com/initr5/"> <img src="https://i.ibb.co/3fnCNmg/43-432901-instagram-grey-circle-logo-instagram-bleu-png-removebg-preview.png" width="48" /> </a>
 </p>
 
 ````{
