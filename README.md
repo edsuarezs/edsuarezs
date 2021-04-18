@@ -1,10 +1,10 @@
 <p align="center"> <img src="https://i.imgur.com/g0CdhwB.png" alt="Banner" width="750" />  </p>
 
 <p align="center"> 
-	<a href="https://twitter.com/init_r5"> <img src="https://i.imgur.com/CuiQHg2.png" width="48" /> </a> 
-	<a href="https://www.linkedin.com/in/edwardsuarezdev/"> <img src="https://i.imgur.com/WDOikt4.png" width="48" /> </a> 
+	<a href="https://twitter.com/initr5"> <img src="https://i.imgur.com/CuiQHg2.png" width="48" /> </a> 
+	<a href="https://www.linkedin.com/in/initr5/"> <img src="https://i.imgur.com/WDOikt4.png" width="48" /> </a> 
 	<a href="https://www.instagram.com/initr5/"> <img src="https://i.imgur.com/9AfAusa.png" width="48" /> </a> 
-	<a href="https://www.twitch.tv/init_r5/"> <img src="https://i.imgur.com/uQzZ19l.png" width="48" /> </a>
+	<a href="https://www.twitch.tv/initr5/"> <img src="https://i.imgur.com/uQzZ19l.png" width="48" /> </a>
 	<a href="https://discord.gg/KjMhKvgQMY"><img src="https://i.imgur.com/0gKW1Al.png" width="48" /> </a>
 </p>
 
