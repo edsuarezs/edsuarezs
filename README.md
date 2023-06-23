@@ -1,35 +1,12 @@
-<p align="center"> <img src="https://i.imgur.com/g0CdhwB.png" alt="Banner" width="750" />  </p>
+# Hi there 👋
 
-<p align="center"> 
-	<a href="https://twitter.com/initr5"> <img src="https://i.imgur.com/CuiQHg2.png" width="48" /> </a> 
-	<a href="https://www.linkedin.com/in/initr5/"> <img src="https://i.imgur.com/WDOikt4.png" width="48" /> </a> 
-	<a href="https://www.instagram.com/initr5/"> <img src="https://i.imgur.com/9AfAusa.png" width="48" /> </a> 
-	<a href="https://www.twitch.tv/initr5/"> <img src="https://i.imgur.com/uQzZ19l.png" width="48" /> </a>
-	<a href="https://discord.gg/KjMhKvgQMY"><img src="https://i.imgur.com/0gKW1Al.png" width="48" /> </a>
-</p>
+Software Developer with 3 years of experience in application development and DevOps. I have a strong understanding of complex programming concepts and various programming paradigms, as well as concepts such as design patterns and development patterns. I excel in my ability to work in a team and efficiently solve problems.
+#Go #ShellScripting  - #Twitch Partner - 🇨🇴
 
-````{
-	"Headline": "Full-stack Software Developer",
-	"Education": [{
-			"Institution": "Politécnico Colombiano Jaime Isaza Cadavid",
-			"title": "Software Engineering",
-			"Date": "August 2019 - 2025",
-			"Status": "in progress"
-		},
-		{
-			"Institution": "CESDE",
-			"title": "Software Development Technician",
-			"Date": "March 2019 - December 2019",
-			"Status": "graduated"
-		},
-		{
-			"Institution": "SENA",
-			"title": "Software Development Technician",
-			"Date": "March 2015 - November 2016",
-			"Status": "graduated"
-		}
-	]
-}
-````
+- 👤 Linkedin: https://www.linkedin.com/in/edsuarezs/
+- 🎥 Twitch Channel: https://twitch.tv/edsuarezs/
+- 📷 Instagram: https://www.instagram.com/distopia.personal/
+- 👾 Twitter: https://twitter.com/edsuarezs
 
----------------------------------------------
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/edsuarezs?style=social"> <img alt="Twitch Status" src="https://img.shields.io/twitch/status/edsuarezs?style=social">
+
